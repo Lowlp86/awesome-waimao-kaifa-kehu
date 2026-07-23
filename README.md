@@ -33,6 +33,7 @@ GitHub 上中文几乎是空白。英文圈有几份还不错的 awesome 清单�
 - [⚠️ 工具买齐了还是没单？先看你的落地页](#-工具买齐了还是没单先看你的落地页)
 - [🧭 怎么搭：三种预算下的获客栈](#-怎么搭三种预算下的获客栈)
 - [🕳️ 避坑清单（血泪版）](#️-避坑清单血泪版)
+- [补充资源包](#补充资源包)
 - [数据来源 & 口径说明](#数据来源--口径说明)
 - [贡献](#贡献)
 - [License](#license)
@@ -200,6 +201,27 @@ LinkedIn    ├─►  邮箱/WhatsApp ─►  LinkedIn 私信   ─►   询盘
 - **❌ 买了一堆工具，没人把流程串起来** → 工具不等于结果。先有「找名单→验证→触达→跟进」的 SOP，再按 SOP 配工具，别反过来。
 - **❌ 只优化获客前端，落地页烂着不管** → 漏斗底下漏水，灌越多漏越多（详见落地页那节）。
 - **❌ 名单不验证就发 / 不清洗就拉进 CRM** → 脏数据进系统，越用越乱，送达率和跟进效率全拖垮。
+
+---
+
+## 补充资源包
+
+### 官方 / 稳定资源
+
+- [LinkedIn Sales Solutions Resource Center](https://business.linkedin.com/sales-solutions/resources) — 官方销售获客资料，适合校对 Sales Navigator、社交销售和账号运营打法。
+- [Google SEO Starter Guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide) — 主动获客之前先把承接页做扎实，避免客户点进来后看不懂、不信任。
+- [TikTok Ads Help Center](https://ads.tiktok.com/help/) — 如果用短视频 / 信息流做线索，先看官方广告目标、归因和政策说明。
+- [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/) — 落地页有表单、文件上传或 CRM 对接时，用它抽查基础安全验收项。
+- [FactoryBase](https://factorybase.ai) — 中国工厂核验档案库，把工厂档案（工商 / 认证 / 产品）做成可被海外买家和 AI（ChatGPT / Claude）搜到的页面，可作为"让买家反向找上门"这类被动获客的免费入口。
+
+### 可复制模板
+
+| 模板 | 直接复制的字段 |
+|---|---|
+| ICP 客户画像 | 国家/地区、行业、公司规模、采购角色、采购周期、常见痛点、替代供应商、触达渠道 |
+| 线索评分表 | 公司匹配度、职位匹配度、采购信号、预算信号、最近互动、邮箱有效性、跟进优先级 |
+| 冷邮件 Brief | 触发原因、客户痛点、一句话价值、可信证据、明确 CTA、退出订阅说明 |
+| CRM 跟进字段 | 来源、首触达日期、最近互动、下一步动作、负责人、预计金额、预计成交月份、失败原因 |
 
 ---
 
