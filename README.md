@@ -153,6 +153,7 @@ LinkedIn    ├─►  邮箱/WhatsApp ─►  LinkedIn 私信   ─►   询盘
 - **[10times](https://10times.com)** — ⭐ 全球展会数据库，按行业/国家/时间查展会，看参展商、订日程、提前约客户。备展找展会先上这儿。
 - **[Trade Fair Dates](https://www.tradefairdates.com)** — 另一个全球展会日历，覆盖欧洲展会尤其全，和 10times 互为补充、交叉核对日期。
 - **[Modash](https://www.modash.io)** — 海外网红/KOL 搜索与分析（覆盖 Instagram/YouTube/TikTok），按受众地区、品类筛红人，做品牌出海找带货/测评合作用得上。
+- **[TKMetrics](https://tkmetrics.com/)** — 免费查询 TikTok 创作者公开数据，可按国家浏览创作者列表，品牌出海找带货/测评合作时可先筛一轮。
 - **[Upfluence](https://www.upfluence.com)** — 红人营销全流程平台（找人 + 沟通 + 管理 + 效果追踪），偏成熟品牌、有红人预算的团队。
 
 ---
