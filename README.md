@@ -264,6 +264,16 @@ Google Maps │    (必验证!)        WhatsApp 触达        CRM 接住跟进
 
 ---
 
+
+## 公共数据 API（Apify）
+
+- [公司社交账号 MCP：从官网找到 LinkedIn 与社交链接](https://apify.com/publicrecords/company-social-profile-finder) - 根据公司名称或官网，找到其 LinkedIn、X、YouTube、Instagram 和 Facebook 账号，并附证据 (Apify).
+- [Google 广告透明度 MCP：竞品广告](https://apify.com/publicrecords/google-ads-transparency-scraper) - 从 Google 广告透明度中心获取竞品新投放、投放中和已停止的 Google 广告，含首次和最后展示日期 (Apify).
+- [Ashby 职位 MCP：任意日期以来的新职位](https://apify.com/publicrecords/ashby-jobs-scraper) - 任意 Ashby 招聘页面自指定日期或时间窗口（24 小时、7 天、30 天）以来发布的新职位，含完整信息 (Apify).
+- [Greenhouse 职位 MCP：任意日期以来的新职位](https://apify.com/publicrecords/greenhouse-jobs-scraper) - 任意 Greenhouse 招聘页面自指定日期或时间窗口（24 小时、7 天、30 天）以来发布的新职位，含完整信息 (Apify).
+- [Lever 职位 MCP：任意日期以来的新职位](https://apify.com/publicrecords/lever-jobs-scraper) - 任意 Lever 招聘页面自指定日期或时间窗口（24 小时、7 天、30 天）以来发布的新职位，含完整信息 (Apify).
+- [SmartRecruiters 职位 MCP：任意日期以来的新职位](https://apify.com/publicrecords/smartrecruiters-jobs-scraper) - 任意 SmartRecruiters 招聘网站自指定日期或时间窗口（24 小时、7 天、30 天）以来发布的新职位，含完整信息 (Apify).
+
 ## 贡献
 
 欢迎 PR / Issue，详见 [CONTRIBUTING.md](CONTRIBUTING.md)：
