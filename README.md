@@ -182,6 +182,7 @@ Google Maps │    (必验证!)        WhatsApp 触达        CRM 接住跟进
 - **[Trade Fair Dates](https://www.tradefairdates.com)** — 另一个全球展会日历，覆盖欧洲展会尤其全，和 10times 互为补充、交叉核对日期。
 - **[Modash](https://www.modash.io)** — 海外网红/KOL 搜索与分析（覆盖 Instagram/YouTube/TikTok），按受众地区、品类筛红人，做品牌出海找带货/测评合作用得上。
 - **[TKMetrics](https://tkmetrics.com/)** — 免费查询 TikTok 创作者公开数据，支持按国家浏览创作者列表，品牌出海找 TikTok 带货/测评红人时可先免费筛一轮（局限：仅覆盖 TikTok，CSV 导出需注册账号）。
+- **[IGDataHub](https://igdatahub.com/)** — 免费查询任意 Instagram 公开账号的粉丝数、互动率与热门帖子，可对比多个红人，找 Instagram 带货/测评红人时可先免费核验一轮（局限：仅覆盖 Instagram，完整 CSV 导出需付费）。
 - **[Upfluence](https://www.upfluence.com)** — 红人营销全流程平台（找人 + 沟通 + 管理 + 效果追踪），偏成熟品牌、有红人预算的团队。
 
 ---
